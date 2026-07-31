@@ -1,7 +1,7 @@
 Date: 07-30-2026
 Who was here:
 - [x] Myself
-- [ ] Jacob
+- [x] Jacob
 - [x] Raymond
 - [x] Will
 - [x] Stephan
