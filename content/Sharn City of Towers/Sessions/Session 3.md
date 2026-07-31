@@ -19,4 +19,18 @@ With some intimidation, Paulie gets us inside the place to acquire some accoutre
 
 Then the Kobolds attacked. They hurt, a lot.
 
-They took out Briggs, and we drew the fight to a lull waiting for someone to make the next food
+They took out Briggs, and we drew the fight to a lull waiting for someone to make the next move.
+
+After a lot of talking, negotiations, a bit of deception, and some luck, we send in Puck to retrieve Briggs, heal him a bit, and they follow the kobold to the boss.
+
+In exchange for our lives and the accoutrement we came for, we fork over 20 gold.
+
+We find the bookshelf and it has
+- a shiny dagger
+- the scroll case
+
+We leave, put back up the sign fully and carve free beer into it. We also put it on the to-burn list.
+
+We head back to the apartment where our loyal dog was guarding the chest. BTW the dog is named Ave'nah (Evan). The dog is a little weiner dog
+
+We use the scroll to unlock the chest

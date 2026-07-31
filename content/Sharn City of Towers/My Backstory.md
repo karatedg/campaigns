@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 Charger served in the military in the past but in more of a coordinator and logistics role. He did his time like all warforged, and now that he's away from that, he's found other work. It started off just taking jobs as a sort of "consultant" which led to helping gangs work on their organization a bit, either through making their operations seem a bit more legitimate or helping them move goods around quicker and safer. Charger was neutral then, but as he worked more with these gangs, they tried to turn him into a spy and pried for info on the operations of everyone else. He's not one for espionage though, and so refusing this meant that he was blacklisted and deemed a liability. No one would hire him anymore. Since he was already used to working with gangs, he figured why not try to set up one of his own, which is why he's in this party.
 
 The name Charger often gets misinterpreted. People assume it is because he charges into battle when given the opportunity. This isn't always true, Charger would often prefer to sit on the sidelines and give orders. Instead, it comes from when he used to manage logistics, he would charge people with the duties they needed to accomplish. 
