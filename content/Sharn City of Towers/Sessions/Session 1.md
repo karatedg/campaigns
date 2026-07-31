@@ -5,12 +5,6 @@ date: 2026-07-09
 The Notes:
 We begin in Sharn, the largest city in Eberron. We're not on any of the top levels. Dragonmarked live on the middle level. We are starting in Dura, a lawless portion of the city with no watch, just gangs that control the city
 
-Stephan is Paulie Walnuts
-Jacob is Puck
-Raymond is Briggs Bickle
-Will is Borak
-
-
 We run into a maintenance tunnel carrying an iron chest. The people we are running for are from the Mongers (as in Fish Mongers), a smuggling group that's fairly well known in Dura.
 
 We realize there are a lot of spiderwebs, and coming to a halt we end up at a maintenance tunnel. There's three big ol spiders in here that hiss at us.

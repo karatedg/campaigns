@@ -1,6 +1,7 @@
 ---
 date: 2026-07-16
 ---
+
 The Notes:
 Middle of the night. We sleep
 
