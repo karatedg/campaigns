@@ -3,15 +3,15 @@ date: 2026-07-09
 ---
 
 The Notes:
-We begin in Sharn, the largest city in Eberron. We're not on any of the top levels. Dragonmarked live on the middle level. We are starting in Dura, a lawless portion of the city with no watch, just gangs that control the city
+We begin in [[Sharn]], the largest city in Eberron. We're not on any of the top levels. Dragonmarked live on the middle level. We are starting in [[Dura]], a lawless portion of the city with no watch, just gangs that control the city
 
-We run into a maintenance tunnel carrying an iron chest. The people we are running for are from the Mongers (as in Fish Mongers), a smuggling group that's fairly well known in Dura.
+We run into a maintenance tunnel carrying an iron chest. The people we are running for are from [[The Mongers]] (as in Fish Mongers), a smuggling group that's fairly well known in [[Dura]].
 
 We realize there are a lot of spiderwebs, and coming to a halt we end up at a maintenance tunnel. There's three big ol spiders in here that hiss at us.
 
 after fighting them and escaping the sewers, we are in a different section of the warehouse district.
 
-Our safehouse is Mama Walnuts' building but a separate apartment. We passed a fried rats guy on the way there that we need to go back to shake down. We greeted Mama Walnuts and then moved to our room.
+Our safehouse is[[ Mama Walnuts]]' building but a separate apartment. We passed a fried rats guy on the way there that we need to go back to shake down. We greeted [[Mama Walnuts]] and then moved to our room.
 
 5 camping chairs around an old mattress. There's a set of rusty weights in the corner. 
 

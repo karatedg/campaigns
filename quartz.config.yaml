@@ -3,9 +3,9 @@ configuration:
   pageTitle: Devan's Tabletop Notes
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
-    provider: plausible
+    provider: null
   locale: en-US
   baseUrl: campaigns.devangandhi.dev
   ignorePatterns:
@@ -41,6 +41,11 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: "abecedarium"
+      mode: "both"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:

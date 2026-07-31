@@ -3,7 +3,7 @@ date: 2026-07-30
 ---
 
 The Notes:
-We're starting at the edge of the old keep tenements near Chrissy's shop. We head to the shop on the edge of Malleon's gate, formerly known as "Schmeeb's marvelous accoutrements" which he conveniently told us right now.
+We're starting at the edge of the old keep tenements near [[Chrissy]]'s shop. We head to the shop on the edge of[[ Malleon's Gate]], formerly known as [[Schmeeb's Marvelous Accoutrements]] which he conveniently told us right now.
 
 A lot of the city is human-ish. There are more monstrous groups as we head here. Kobolds, Hobgoblins, etc. It's a much busier section of the city.
 
@@ -17,7 +17,7 @@ Then the Kobolds attacked. They hurt, a lot.
 
 They took out Briggs, and we drew the fight to a lull waiting for someone to make the next move.
 
-After a lot of talking, negotiations, a bit of deception, and some luck, we send in Puck to retrieve Briggs, heal him a bit, and they follow the kobold to the boss.
+After a lot of talking, negotiations, a bit of deception, and some luck, we send in Puck to retrieve Briggs, heal him a bit, and they follow the kobold to the boss. Briggs drank the potion that we got last time to stay alive.
 
 In exchange for our lives and the accoutrement we came for, we fork over 20 gold.
 
