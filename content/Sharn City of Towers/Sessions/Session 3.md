@@ -1,10 +1,6 @@
-Date: 07-30-2026
-Who was here:
-- [x] Myself
-- [x] Jacob
-- [x] Raymond
-- [x] Will
-- [x] Stephan
+---
+date: 2026-07-30
+---
 
 The Notes:
 We're starting at the edge of the old keep tenements near Chrissy's shop. We head to the shop on the edge of Malleon's gate, formerly known as "Schmeeb's marvelous accoutrements" which he conveniently told us right now.

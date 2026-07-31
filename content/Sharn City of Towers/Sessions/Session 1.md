@@ -1,10 +1,6 @@
-Date: 07-09-2026
-Who was here:
-- [x] Myself
-- [x] Jacob
-- [x] Raymond
-- [x] Will
-- [x] Stephan
+---
+date: 2026-07-09
+---
 
 The Notes:
 We begin in Sharn, the largest city in Eberron. We're not on any of the top levels. Dragonmarked live on the middle level. We are starting in Dura, a lawless portion of the city with no watch, just gangs that control the city

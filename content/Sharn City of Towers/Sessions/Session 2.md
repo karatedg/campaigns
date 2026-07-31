@@ -1,11 +1,6 @@
-Date: 07-16-2026
-Who was here:
-- [x] Myself
-- [x] Jacob
-- [x] Raymond
-- [x] Will
-- [x] Stephan
-
+---
+date: 2026-07-16
+---
 The Notes:
 Middle of the night. We sleep
 
