@@ -33,4 +33,6 @@ We leave, put back up the sign fully and carve free beer into it. We also put it
 
 We head back to the apartment where our loyal dog was guarding the chest. BTW the dog is named Ave'nah (Evan). The dog is a little weiner dog
 
-We use the scroll to unlock the chest
+We use the scroll to unlock the chest. Within we see a brain in a jar with a speaker connected to it.
+
+All it says is "Who the fuck are you guys"

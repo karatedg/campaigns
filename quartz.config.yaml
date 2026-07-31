@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: devangandhi.dev/campaigns
+  baseUrl: campaigns.devangandhi.dev
   ignorePatterns:
     - private
     - templates
